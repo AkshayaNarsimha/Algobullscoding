@@ -1,0 +1,4 @@
+Install alpha-vantage: pip install alpha-vantage
+Import requests
+Import pandas as pd
+from alpha_vantage.timeseries import TimeSeries
